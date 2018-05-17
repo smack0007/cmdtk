@@ -1,0 +1,1 @@
+dotnet build cmdtk.csproj --runtime win-x86
